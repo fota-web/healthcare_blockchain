@@ -1,0 +1,116 @@
+.system-apply-form-box {
+    /* border: 2px solid black; */
+    width: 100%;
+    /* text-align: left; */
+}
+.system_apply_form_input {
+    width: 150px;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 3px dashed black;
+    margin-bottom: 30px;
+    color: black;
+    height: 30px;
+    font-size: 30px;
+    text-align:center;
+}
+
+.system_M_table2-box{
+    margin:0px auto;
+    width: 100%;
+    padding:0px;
+    text-align:left;
+    border: 2px solid black;
+    
+    background-color: rgb(231, 187, 43);
+}
+
+.system_M_table_check{
+    
+    background-color: rgb(231, 187, 43);
+}
+
+.system_M_table-box{
+    margin:0px auto;
+    width: 100%;
+    height: 250px;
+    padding:0px;
+    /* border: 1px solid black; */
+
+    
+}
+
+.system_apply_button {
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.1s; /* Safari */
+    transition-duration: 0.1s;
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+
+    background-color: #dddbdbc4;
+    color: black;
+    border: 2px solid black;
+}
+
+.system_apply_button:hover {
+    background-color: black;
+    color: white;
+}
+
+.system_apply_button_x {
+    visibility: hidden;
+}
+
+.system_M_yes {
+    width: 100%;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+
+    background-color: transparent;
+    color: rgb(42, 143, 64);
+    border: 2px solid rgb(231, 187, 43);
+}
+.system_M_yes:hover {
+    background-color: rgb(42, 143, 64);
+    color: white;
+}
+
+.system_M_no {
+    width: 100%;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    
+    background-color: transparent;
+    color: rgb(177, 86, 58);
+    border: 2px solid rgb(231, 187, 43);
+}
+.system_M_no:hover {
+    background-color: rgb(177, 86, 58);
+    color: white;
+}
+
+.system_Mapply_back {
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.1s; /* Safari */
+    transition-duration: 0.1s;
+    cursor: pointer;
+    width: 100%;
+    height: 60px;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    border: 2px solid #282c34;
+}
+.system_Mapply_back:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}

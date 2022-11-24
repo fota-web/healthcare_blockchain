@@ -1,0 +1,32 @@
+.loginfail {
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #dddbdbc4;
+}
+.form-fail {
+  display: flex;
+  height: 100px;
+  width: 100%;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.form-back-btn {
+  background-color: transparent;
+  border: 0;
+  color: #000000;
+  height: 50px;
+  width: 200px;
+  font-size: 20px;
+  border: 2px solid #000000;
+}
+.form-back-btn:hover{
+  opacity: .8;
+  width: 200px;
+  color: #FFFFFF;
+  background-color: #000000;
+}
